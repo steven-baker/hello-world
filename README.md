@@ -1,14 +1,14 @@
 # hello-world
-first hello-world repository for training\n
+first hello-world repository for training
 
-\nname: Steve
-\nage: middle
-\nhair: red
-\neyes: brown
+name: Steve
+age: middle
+hair: red
+eyes: brown
 
-\n1. added formatting, hope it works
-\n2. more info
+1. added formatting, hope it works
+2. more info
 
-\nwife: Lynda
-\nchildren: Corwen, Rhys
-\siblings: Randi, Andy, Matt
+wife: Lynda
+children: Corwen, Rhys
+siblings: Randi, Andy, Matt
